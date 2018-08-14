@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "代码检验", "代码检验\代码检验.vcxproj", "{7FB51DB8-21B3-4596-8BEE-6FEA8B83D810}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "用户登陆的实现", "代码检验\代码检验.vcxproj", "{7FB51DB8-21B3-4596-8BEE-6FEA8B83D810}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "各个代码的测试", "各个代码的测试", "{066CCE75-4042-4EC7-8429-0325BB6A1EDC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
