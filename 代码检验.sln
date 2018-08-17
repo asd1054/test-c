@@ -7,6 +7,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "用户登陆的实现", "�
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "各个代码的测试", "各个代码的测试", "{066CCE75-4042-4EC7-8429-0325BB6A1EDC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "输入输出", "输入输出\输入输出.vcxproj", "{6E9794BF-F352-4E6E-8A42-6F45CD8FBE9A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "运算符", "运算符\运算符.vcxproj", "{23048DBA-D3B7-49AB-9A67-5E6C46A7C7DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -23,9 +27,29 @@ Global
 		{7FB51DB8-21B3-4596-8BEE-6FEA8B83D810}.Release|x64.Build.0 = Release|x64
 		{7FB51DB8-21B3-4596-8BEE-6FEA8B83D810}.Release|x86.ActiveCfg = Release|Win32
 		{7FB51DB8-21B3-4596-8BEE-6FEA8B83D810}.Release|x86.Build.0 = Release|Win32
+		{6E9794BF-F352-4E6E-8A42-6F45CD8FBE9A}.Debug|x64.ActiveCfg = Debug|x64
+		{6E9794BF-F352-4E6E-8A42-6F45CD8FBE9A}.Debug|x64.Build.0 = Debug|x64
+		{6E9794BF-F352-4E6E-8A42-6F45CD8FBE9A}.Debug|x86.ActiveCfg = Debug|Win32
+		{6E9794BF-F352-4E6E-8A42-6F45CD8FBE9A}.Debug|x86.Build.0 = Debug|Win32
+		{6E9794BF-F352-4E6E-8A42-6F45CD8FBE9A}.Release|x64.ActiveCfg = Release|x64
+		{6E9794BF-F352-4E6E-8A42-6F45CD8FBE9A}.Release|x64.Build.0 = Release|x64
+		{6E9794BF-F352-4E6E-8A42-6F45CD8FBE9A}.Release|x86.ActiveCfg = Release|Win32
+		{6E9794BF-F352-4E6E-8A42-6F45CD8FBE9A}.Release|x86.Build.0 = Release|Win32
+		{23048DBA-D3B7-49AB-9A67-5E6C46A7C7DD}.Debug|x64.ActiveCfg = Debug|x64
+		{23048DBA-D3B7-49AB-9A67-5E6C46A7C7DD}.Debug|x64.Build.0 = Debug|x64
+		{23048DBA-D3B7-49AB-9A67-5E6C46A7C7DD}.Debug|x86.ActiveCfg = Debug|Win32
+		{23048DBA-D3B7-49AB-9A67-5E6C46A7C7DD}.Debug|x86.Build.0 = Debug|Win32
+		{23048DBA-D3B7-49AB-9A67-5E6C46A7C7DD}.Release|x64.ActiveCfg = Release|x64
+		{23048DBA-D3B7-49AB-9A67-5E6C46A7C7DD}.Release|x64.Build.0 = Release|x64
+		{23048DBA-D3B7-49AB-9A67-5E6C46A7C7DD}.Release|x86.ActiveCfg = Release|Win32
+		{23048DBA-D3B7-49AB-9A67-5E6C46A7C7DD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6E9794BF-F352-4E6E-8A42-6F45CD8FBE9A} = {066CCE75-4042-4EC7-8429-0325BB6A1EDC}
+		{23048DBA-D3B7-49AB-9A67-5E6C46A7C7DD} = {066CCE75-4042-4EC7-8429-0325BB6A1EDC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A422BFF9-526B-478F-A8FB-FC14C7795DC3}

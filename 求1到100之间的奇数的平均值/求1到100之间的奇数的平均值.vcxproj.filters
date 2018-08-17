@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="用户登陆的实现.cpp">
+    <ClCompile Include="求1到100之间的奇数的平均值.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
