@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "用户登陆的实现", "�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "输入输出（scanf）", "输入输出（scanf）\输入输出.vcxproj", "{6E9794BF-F352-4E6E-8A42-6F45CD8FBE9A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "求回文数（数字）", "求回文数\求回文数.vcxproj", "{CA264B42-C616-45DA-9AC4-9B0A2394FA51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -119,6 +121,14 @@ Global
 		{6E9794BF-F352-4E6E-8A42-6F45CD8FBE9A}.Release|x64.Build.0 = Release|x64
 		{6E9794BF-F352-4E6E-8A42-6F45CD8FBE9A}.Release|x86.ActiveCfg = Release|Win32
 		{6E9794BF-F352-4E6E-8A42-6F45CD8FBE9A}.Release|x86.Build.0 = Release|Win32
+		{CA264B42-C616-45DA-9AC4-9B0A2394FA51}.Debug|x64.ActiveCfg = Debug|x64
+		{CA264B42-C616-45DA-9AC4-9B0A2394FA51}.Debug|x64.Build.0 = Debug|x64
+		{CA264B42-C616-45DA-9AC4-9B0A2394FA51}.Debug|x86.ActiveCfg = Debug|Win32
+		{CA264B42-C616-45DA-9AC4-9B0A2394FA51}.Debug|x86.Build.0 = Debug|Win32
+		{CA264B42-C616-45DA-9AC4-9B0A2394FA51}.Release|x64.ActiveCfg = Release|x64
+		{CA264B42-C616-45DA-9AC4-9B0A2394FA51}.Release|x64.Build.0 = Release|x64
+		{CA264B42-C616-45DA-9AC4-9B0A2394FA51}.Release|x86.ActiveCfg = Release|Win32
+		{CA264B42-C616-45DA-9AC4-9B0A2394FA51}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -135,6 +145,7 @@ Global
 		{D27765CC-CDA8-4C8E-9E3D-508635FFDE7F} = {C2BB64F7-6E2A-4C7C-9108-C2E7F9555E82}
 		{7FB51DB8-21B3-4596-8BEE-6FEA8B83D810} = {E75D85CF-4669-4B27-8F88-983ED68749F6}
 		{6E9794BF-F352-4E6E-8A42-6F45CD8FBE9A} = {066CCE75-4042-4EC7-8429-0325BB6A1EDC}
+		{CA264B42-C616-45DA-9AC4-9B0A2394FA51} = {E75D85CF-4669-4B27-8F88-983ED68749F6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A422BFF9-526B-478F-A8FB-FC14C7795DC3}
